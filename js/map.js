@@ -12,7 +12,7 @@ $(function() {
     fileType: 'csv',
     recordName: 'flu shot location',
     recordNamePlural: 'flu shot locations',
-    map_centroid: [41.85754, -87.66231],
+    map_centroid: [33.928287, -84.329268],
     defaultZoom:  11,
     defaultRadius: 1610,
     debug: false,
